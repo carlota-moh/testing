@@ -1,3 +1,5 @@
+
+
 # This is the document I used over several days to practice my lessons in R. The theory and exercises may be recovered from this workshop: https://hbctraining.github.io/Intro-to-R/schedules/1.5-day.html
 
 # Let's start with variables. In order to assign a variable, use <- (Alt + - is a shortcut)
@@ -700,3 +702,4 @@ ggplot(new_metadata) +
 dev.off()
 
 # Remember that you will not be able to open and look at your file using standard methods (Adobe Acrobat or Preview etc.) until you execute the dev.off() function.
+
